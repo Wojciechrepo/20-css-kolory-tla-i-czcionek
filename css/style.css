@@ -1,0 +1,44 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    background-color: darkgreen;
+}
+
+h1+p{
+    background-color: darkmagenta;
+}
+
+h2{
+    background-color: gold;
+}
+
+h2+p{
+    background-color: indianred;
+}
+
+ol{
+    background-color: lawngreen;
+}
+
+#item1{
+    background-color: lightseagreen;
+}
+
+#item2{
+    background-color: midnightblue;
+}
+
+#item3{
+    background-color: red;
+}
+
+#item4{
+    background-color: springgreen;
+}
+
+#item5{
+    background-color: violet;
+}
+
